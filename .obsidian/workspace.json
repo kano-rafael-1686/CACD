@@ -1,0 +1,295 @@
+{
+  "main": {
+    "id": "9e6d3bde97571cfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e99efb64b5f6317",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "821dea0e61d78182",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - SISTEMA/00.2 - Comandos do Notebook LM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00.2 - Comandos do Notebook LM"
+            }
+          },
+          {
+            "id": "9b5e84aeaddfed19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - EDITAL/05.1 - Edital - História Mundial.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05.1 - Edital - História Mundial"
+            }
+          },
+          {
+            "id": "ae8e5ca156e8a635",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "1a030791fc0f2540",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - CONHECIMENTO/02.1 - História Mundial/02.1.3 - GUERRAS NAPOLEÔNICAS - BATALHA NAVAL DE TRAFALGAR (1805).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02.1.3 - GUERRAS NAPOLEÔNICAS - BATALHA NAVAL DE TRAFALGAR (1805)"
+            }
+          },
+          {
+            "id": "d294c77e8681d99d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - CONHECIMENTO/02.2 - História do Brasil/02.3 - Processo de Independência - A situação política e econômica europeia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02.3 - Processo de Independência - A situação política e econômica europeia"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f16246720d8c94c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9514e36ec3fe7e5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cec6a66abf3bf324",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "4edcf8fa3d21b1d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "223bdde2c70c5595",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 510.29998779296875
+  },
+  "right": {
+    "id": "26159a144e71da1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ced99ae8a042eb40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0023d0bb5c281c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 - CONHECIMENTO/02.2 - História do Brasil/02.2.1 - O PROCESSO DE INDEPENDÊNCIA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "b7010f27da67a9e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 - CONHECIMENTO/02.2 - História do Brasil/02.2.1 - O PROCESSO DE INDEPENDÊNCIA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "cf7e50a9e06afe10",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "f43168a5ba98dfc3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "9da580e6bfe3cb3a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 - CONHECIMENTO/02.2 - História do Brasil/02.2.1 - O PROCESSO DE INDEPENDÊNCIA.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "802c98e9c8800ca3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Abrir importador Markdown": false,
+      "zk-prefixer:Criar nova nota única": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "821dea0e61d78182",
+  "lastOpenFiles": [
+    "05 - EDITAL/05.1 - Edital - História Mundial.md",
+    "02 - CONHECIMENTO/02.1 - História Mundial/02.1.3 - GUERRAS NAPOLEÔNICAS - BATALHA NAVAL DE TRAFALGAR (1805).md",
+    "02 - CONHECIMENTO/02.2 - História do Brasil/02.3 - Processo de Independência - A situação política e econômica europeia.md",
+    "02 - CONHECIMENTO/02.2 - História do Brasil/02.4 - O Processo de Independência - O Brasil Sede do Estado Monárquico Português.md",
+    "01 - DASHBOARDS/01.4 - Atas de Sessão/2026-09-06 - HB - O PROCESSO DE INDEPENDÊNCIA - O BRASIL SEDE DO ESTADO MONÁRQUICO PORTUGUÊS.md",
+    "05 - EDITAL/05.10 - Edital - Redação.md",
+    "05 - EDITAL/05.9 - Edital - Espanhol.md",
+    "05 - EDITAL/05.8 - Edital - Inglês.md",
+    "05 - EDITAL/05.7 - Edital - Língua Portuguesa.md",
+    "05 - EDITAL/05.6 - Edital - Direito.md",
+    "05 - EDITAL/05.5 - Edital - Economia.md",
+    "05 - EDITAL/05.4 - Edital - Geografia.md",
+    "05 - EDITAL/05.3 - Edital - Política Internacional.md",
+    "05 - EDITAL/05.1.1 - Edital - HM (Ordem Cronológica - 1º Macrociclo).md",
+    "05 - EDITAL/05.2 - Edital - História do Brasil.md",
+    "00 - SISTEMA/00.1 - Comandos do Tutor (DeepSeek).md",
+    "00 - SISTEMA/00.2 - Comandos do Notebook LM.md",
+    "01 - DASHBOARDS/01.4 - Atas de Sessão/2026-09-04 - HB - 2.3 O PROCESSO DE INDEPENDÊNCIA - O BRASIL SEDE DOS ESTADO MONARQUICO PORTUGUÊS.md",
+    "01 - DASHBOARDS/01.4 - Atas de Sessão/2026-08-31 - HB - 2.2 O PROCESSO DE INDEPENDÊNCIA – A SITUAÇÃO POLÍTICA E ECONÔMICA EUROPEIA.md",
+    "01 - DASHBOARDS/01.2 - Bancos de Erros (Lacunas)/01.2.1 - História do Brasil.md",
+    "04 - MATERIAIS DE APOIO/04.3 - História do Brasil/04.4 - Inteligência da Banca - O Brasil Sede do Estado Monárquico Português (1808–1821).md",
+    "02 - CONHECIMENTO/02.2 - História do Brasil/02.4.1 - O aparato da corte na era joanina.md",
+    "02 - CONHECIMENTO/02.1 - História Mundial/02.1.2 - A Era das Revoluções e a Construção do Mundo Liberal (Séculos XVIII a XIX).md",
+    "01 - DASHBOARDS/01.4 - Atas de Sessão/2026-08-29 - HB - 2.2 O PROCESSO DE INDEPENDÊNCIA – A SITUAÇÃO POLÍTICA E ECONÔMICA EUROPEIA.md",
+    "01 - DASHBOARDS/01.3 - Ciclo de Estudos (Rotina).md",
+    "01 - DASHBOARDS/01.1 - Painel de Progresso (Matérias).md",
+    "Sem título.base",
+    "04 - MATERIAIS DE APOIO/04.3 - História do Brasil",
+    "04 - MATERIAIS DE APOIO/04.2 - História Mundial",
+    "01 - DASHBOARDS/01.2 - Bancos de Erros (Lacunas)",
+    "01 - DASHBOARDS/01.4 - Atas de Sessão",
+    "05 - EDITAL",
+    "04 - MATERIAIS DE APOIO/04.1 - Resumos do Notebook LM",
+    "02 - CONHECIMENTO/02.9 - Espanhol",
+    "02 - CONHECIMENTO/02.8 - Inglês",
+    "02 - CONHECIMENTO/02.7 - Língua Portuguesa"
+  ]
+}
