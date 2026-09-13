@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - SISTEMA/00.2 - Comandos do Notebook LM.md",
+                "file": "01 - DASHBOARDS/01.4 - Atas de Sessão/2026-09-12 - 1.1 A REVOLUÇÃO FRANCESA E AS REVOLUÇÕES BURGUESAS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00.2 - Comandos do Notebook LM"
-            }
-          },
-          {
-            "id": "9b5e84aeaddfed19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - EDITAL/05.1 - Edital - História Mundial.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05.1 - Edital - História Mundial"
+              "title": "2026-09-12 - 1.1 A REVOLUÇÃO FRANCESA E AS REVOLUÇÕES BURGUESAS"
             }
           },
           {
@@ -51,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - CONHECIMENTO/02.1 - História Mundial/02.1.3 - GUERRAS NAPOLEÔNICAS - BATALHA NAVAL DE TRAFALGAR (1805).md",
+                "file": "01 - DASHBOARDS/01.4 - Atas de Sessão/2026-09-12 - HM - 1.1 A REVOLUÇÃO FRANCESA E AS REVOLUÇÕES BURGUESAS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.1.3 - GUERRAS NAPOLEÔNICAS - BATALHA NAVAL DE TRAFALGAR (1805)"
+              "title": "2026-09-12 - HM - 1.1 A REVOLUÇÃO FRANCESA E AS REVOLUÇÕES BURGUESAS"
             }
           },
           {
@@ -65,15 +51,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - CONHECIMENTO/02.2 - História do Brasil/02.3 - Processo de Independência - A situação política e econômica europeia.md",
+                "file": "00 - SISTEMA/00.1 - Comandos do Tutor (DeepSeek).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.3 - Processo de Independência - A situação política e econômica europeia"
+              "title": "00.1 - Comandos do Tutor (DeepSeek)"
+            }
+          },
+          {
+            "id": "0aab612e4d586008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - EDITAL/05.1.1 - Edital - HM (Ordem Cronológica - 1º Macrociclo).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05.1.1 - Edital - HM (Ordem Cronológica - 1º Macrociclo)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 510.29998779296875
+    "width": 331.8999938964844
   },
   "right": {
     "id": "26159a144e71da1e",
@@ -237,7 +238,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,10 +255,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "821dea0e61d78182",
+  "active": "ae8e5ca156e8a635",
   "lastOpenFiles": [
-    "05 - EDITAL/05.1 - Edital - História Mundial.md",
+    "01 - DASHBOARDS/01.4 - Atas de Sessão/2026-09-12 - 1.1 A REVOLUÇÃO FRANCESA E AS REVOLUÇÕES BURGUESAS.md",
+    "01 - DASHBOARDS/01.4 - Atas de Sessão/2026-09-12 - HM - 1.1 A REVOLUÇÃO FRANCESA E AS REVOLUÇÕES BURGUESAS.md",
+    "00 - SISTEMA/00.1 - Comandos do Tutor (DeepSeek).md",
+    "02 - CONHECIMENTO/02.1 - História Mundial/02.1.2 - A Era das Revoluções e a Construção do Mundo Liberal (Séculos XVIII a XIX).md",
+    "05 - EDITAL/05.1.1 - Edital - HM (Ordem Cronológica - 1º Macrociclo).md",
+    "01 - DASHBOARDS/01.4 - Atas de Sessão/2026-08-28 - HM 2.1 - A Revolução Francesa e as Revoluções Burguesas.md",
+    "01 - DASHBOARDS/01.4 - Atas de Sessão/2026-08-27 - HM 2.1 - A Revolução Francesa e as Revoluções Burguesas.md",
+    "04 - MATERIAIS DE APOIO/04.2 - História Mundial/04.5 - Inteligência da Banca - HM - A Revolução Francesa e as Revoluções Burguesas (Edital HM - Tópico 2.1).md",
     "02 - CONHECIMENTO/02.1 - História Mundial/02.1.3 - GUERRAS NAPOLEÔNICAS - BATALHA NAVAL DE TRAFALGAR (1805).md",
+    "02 - CONHECIMENTO/02.1 - História Mundial/02.1.1 - Estruturas e Ideias Econômicas — Da Revolução Industrial ao Capitalismo Organizado (Séculos XVIII a XX.md",
+    "00 - SISTEMA/00.2 - Comandos do Notebook LM.md",
+    "05 - EDITAL/05.1 - Edital - História Mundial.md",
     "02 - CONHECIMENTO/02.2 - História do Brasil/02.3 - Processo de Independência - A situação política e econômica europeia.md",
     "02 - CONHECIMENTO/02.2 - História do Brasil/02.4 - O Processo de Independência - O Brasil Sede do Estado Monárquico Português.md",
     "01 - DASHBOARDS/01.4 - Atas de Sessão/2026-09-06 - HB - O PROCESSO DE INDEPENDÊNCIA - O BRASIL SEDE DO ESTADO MONÁRQUICO PORTUGUÊS.md",
@@ -268,19 +280,9 @@
     "05 - EDITAL/05.5 - Edital - Economia.md",
     "05 - EDITAL/05.4 - Edital - Geografia.md",
     "05 - EDITAL/05.3 - Edital - Política Internacional.md",
-    "05 - EDITAL/05.1.1 - Edital - HM (Ordem Cronológica - 1º Macrociclo).md",
     "05 - EDITAL/05.2 - Edital - História do Brasil.md",
-    "00 - SISTEMA/00.1 - Comandos do Tutor (DeepSeek).md",
-    "00 - SISTEMA/00.2 - Comandos do Notebook LM.md",
     "01 - DASHBOARDS/01.4 - Atas de Sessão/2026-09-04 - HB - 2.3 O PROCESSO DE INDEPENDÊNCIA - O BRASIL SEDE DOS ESTADO MONARQUICO PORTUGUÊS.md",
     "01 - DASHBOARDS/01.4 - Atas de Sessão/2026-08-31 - HB - 2.2 O PROCESSO DE INDEPENDÊNCIA – A SITUAÇÃO POLÍTICA E ECONÔMICA EUROPEIA.md",
-    "01 - DASHBOARDS/01.2 - Bancos de Erros (Lacunas)/01.2.1 - História do Brasil.md",
-    "04 - MATERIAIS DE APOIO/04.3 - História do Brasil/04.4 - Inteligência da Banca - O Brasil Sede do Estado Monárquico Português (1808–1821).md",
-    "02 - CONHECIMENTO/02.2 - História do Brasil/02.4.1 - O aparato da corte na era joanina.md",
-    "02 - CONHECIMENTO/02.1 - História Mundial/02.1.2 - A Era das Revoluções e a Construção do Mundo Liberal (Séculos XVIII a XIX).md",
-    "01 - DASHBOARDS/01.4 - Atas de Sessão/2026-08-29 - HB - 2.2 O PROCESSO DE INDEPENDÊNCIA – A SITUAÇÃO POLÍTICA E ECONÔMICA EUROPEIA.md",
-    "01 - DASHBOARDS/01.3 - Ciclo de Estudos (Rotina).md",
-    "01 - DASHBOARDS/01.1 - Painel de Progresso (Matérias).md",
     "Sem título.base",
     "04 - MATERIAIS DE APOIO/04.3 - História do Brasil",
     "04 - MATERIAIS DE APOIO/04.2 - História Mundial",
