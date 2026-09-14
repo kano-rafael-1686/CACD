@@ -25,10 +25,14 @@
             "id": "ae8e5ca156e8a635",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "04 - MATERIAIS DE APOIO/04.2 - História Mundial/4.3 - Flashcards - HM/2026-09-13 - Flashcards-HM-Rev Francesa-Datas e Personagens.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-13 - Flashcards-HM-Rev Francesa-Datas e Personagens"
             }
           },
           {
@@ -73,8 +77,7 @@
               "title": "05.1.1 - Edital - HM (Ordem Cronológica - 1º Macrociclo)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,11 +255,14 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "flashcards-obsidian:Update Anki from current note": false
     }
   },
-  "active": "ae8e5ca156e8a635",
+  "active": "821dea0e61d78182",
   "lastOpenFiles": [
+    "04 - MATERIAIS DE APOIO/04.2 - História Mundial/4.3 - Flashcards - HM/2026-09-13 - Flashcards-HM-Rev Francesa-Datas e Personagens.md",
+    "04 - MATERIAIS DE APOIO/04.2 - História Mundial/4.3 - Flashcards - HM",
     "01 - DASHBOARDS/01.4 - Atas de Sessão/2026-09-12 - 1.1 A REVOLUÇÃO FRANCESA E AS REVOLUÇÕES BURGUESAS.md",
     "01 - DASHBOARDS/01.4 - Atas de Sessão/2026-09-12 - HM - 1.1 A REVOLUÇÃO FRANCESA E AS REVOLUÇÕES BURGUESAS.md",
     "00 - SISTEMA/00.1 - Comandos do Tutor (DeepSeek).md",
@@ -282,7 +288,6 @@
     "05 - EDITAL/05.3 - Edital - Política Internacional.md",
     "05 - EDITAL/05.2 - Edital - História do Brasil.md",
     "01 - DASHBOARDS/01.4 - Atas de Sessão/2026-09-04 - HB - 2.3 O PROCESSO DE INDEPENDÊNCIA - O BRASIL SEDE DOS ESTADO MONARQUICO PORTUGUÊS.md",
-    "01 - DASHBOARDS/01.4 - Atas de Sessão/2026-08-31 - HB - 2.2 O PROCESSO DE INDEPENDÊNCIA – A SITUAÇÃO POLÍTICA E ECONÔMICA EUROPEIA.md",
     "Sem título.base",
     "04 - MATERIAIS DE APOIO/04.3 - História do Brasil",
     "04 - MATERIAIS DE APOIO/04.2 - História Mundial",
@@ -291,7 +296,6 @@
     "05 - EDITAL",
     "04 - MATERIAIS DE APOIO/04.1 - Resumos do Notebook LM",
     "02 - CONHECIMENTO/02.9 - Espanhol",
-    "02 - CONHECIMENTO/02.8 - Inglês",
-    "02 - CONHECIMENTO/02.7 - Língua Portuguesa"
+    "02 - CONHECIMENTO/02.8 - Inglês"
   ]
 }
