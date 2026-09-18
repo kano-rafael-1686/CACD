@@ -1,8 +1,8 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
-  "showAttachments": false,
+  "showTags": true,
+  "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -15,23 +15,27 @@
       }
     },
     {
-      "query": "tag:HB",
+      "query": "tag:#HB  ",
       "color": {
         "a": 1,
-        "rgb": 5431394
+        "rgb": 3141206
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.01407661164746,
+  "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
+<<<<<<< HEAD
+  "scale": 0.25883865621816565,
+=======
   "scale": 0.22920135941749117,
+>>>>>>> 80d2bfd25d1bfce0e6c1637f03ed0aa85c6d61a2
   "close": false
 }
