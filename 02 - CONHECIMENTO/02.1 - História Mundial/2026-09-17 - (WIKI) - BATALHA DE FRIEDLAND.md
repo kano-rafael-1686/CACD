@@ -1,0 +1,28 @@
+
+[https://pt.wikipedia.org/wiki/Batalha_de_Friedland]()
+
+# Batalha de Friedland
+
+A **Batalha de Friedland** ocorreu em [14 de junho](https://pt.wikipedia.org/wiki/14_de_Junho "14 de Junho") de [1807](https://pt.wikipedia.org/wiki/1807 "1807"), em Friedland (atual [Pravdinsk](https://pt.wikipedia.org/wiki/Pravdinsk?action=edit&redlink=1 "Pravdinsk (página não existe)")) 43 quilômetros a sudeste da atual [Kaliningrado](https://pt.wikipedia.org/wiki/Kaliningrado "Kaliningrado"), na [Rússia](https://pt.wikipedia.org/wiki/R%C3%BAssia "Rússia") (enclave de Kaliningrado), opondo os exércitos de [Napoleão Bonaparte](https://pt.wikipedia.org/wiki/Napole%C3%A3o_Bonaparte "Napoleão Bonaparte") aos exércitos da Rússia, sob o comando do general Bennigesen.[[4]](https://pt.wikipedia.org/wiki/Batalha_de_Friedland#cite_note-4)
+
+## Contexto histórico
+
+Depois de derrotar os russos e os [austríacos](https://pt.wikipedia.org/wiki/Imp%C3%A9rio_Austr%C3%ADaco "Império Austríaco") na [batalha de Austerlitz](https://pt.wikipedia.org/wiki/Batalha_de_Austerlitz "Batalha de Austerlitz"), Napoleão enfrentou os [prussianos](https://pt.wikipedia.org/wiki/Reino_da_Pr%C3%BAssia "Reino da Prússia") e os derrotou na [batalha de Jena](https://pt.wikipedia.org/wiki/Batalha_de_Jena "Batalha de Jena") e na [batalha de Auerstedt](https://pt.wikipedia.org/wiki/Batalha_de_Auerstedt "Batalha de Auerstedt"). O Czar [Alexandre I](https://pt.wikipedia.org/wiki/Alexandre_I_da_R%C3%BAssia "Alexandre I da Rússia") decidiu confrontar Napoleão novamente, e avançou com seu exército para a [Polônia](https://pt.wikipedia.org/wiki/Pol%C3%B4nia "Polônia"), onde ocorreu a indecisa [batalha de Eylau](https://pt.wikipedia.org/wiki/Batalha_de_Eylau "Batalha de Eylau"). Como ambos os exércitos ficaram em frangalhos, seus comandantes decidiram se retirar para recobrar as forças.
+
+## A batalha
+
+Quatro meses depois da [batalha de Eylau](https://pt.wikipedia.org/wiki/Batalha_de_Eylau "Batalha de Eylau"), os franceses confrontaram os russos novamente: primeiro em [Heilsberg](https://pt.wikipedia.org/wiki/Batalha_de_Heilsberg "Batalha de Heilsberg") e, logo depois, em Friedlândia, atual [Pravdinsk](https://pt.wikipedia.org/wiki/Pravdinsk?action=edit&redlink=1 "Pravdinsk (página não existe)"), na [Rússia](https://pt.wikipedia.org/wiki/R%C3%BAssia "Rússia"). Os franceses tinham pressa, já que os russos rumavam para [Königsberg](https://pt.wikipedia.org/wiki/K%C3%B6nigsberg "Königsberg"), atual [Kaliningrado](https://pt.wikipedia.org/wiki/Kaliningrado "Kaliningrado"), ocupada por seus aliados prussianos. Napoleão temia que suas forças não fossem suficientes para derrotar dois inimigos ao mesmo tempo. Os franceses alcançaram os russos no dia 14 de junho de 1807, em Friedlândia. A vanguarda de 10 mil homens do general [Lannes](https://pt.wikipedia.org/wiki/Jean_Lannes "Jean Lannes") foi logo atacada por 72 mil soldados inimigos, mas conseguiu resistir por toda a manhã. Ao meio-dia, chegaram os reforços franceses, sob o fogo dos canhões russos. Foi a vez de o general [Victor](https://pt.wikipedia.org/wiki/Claude_Victor-Perrin "Claude Victor-Perrin") se destacar, bombardeando o flanco esquerdo do adversário com precisão até fazê-lo recuar. Às 17 horas, a [cavalaria](https://pt.wikipedia.org/wiki/Cavalaria "Cavalaria") do marechal [Ney](https://pt.wikipedia.org/wiki/Michel_Ney "Michel Ney") tomou a cidade e incendiou as pontes para Königsberg. Os russos bateram em retirada. Os franceses computaram 10 mil baixas, e os russos, 15 mil. O czar decidiu então negociar.
+
+## Consequências
+
+Um acordo assinado em [Tilsit](https://pt.wikipedia.org/wiki/Tilsit "Tilsit"), hoje parte da [Lituânia](https://pt.wikipedia.org/wiki/Litu%C3%A2nia "Lituânia"), transformou a Rússia em aliada da [França](https://pt.wikipedia.org/wiki/Primeiro_Imp%C3%A9rio_Franc%C3%AAs "Primeiro Império Francês") contra a [Inglaterra](https://pt.wikipedia.org/wiki/Reino_Unido_da_Gr%C3%A3-Bretanha_e_Irlanda "Reino Unido da Grã-Bretanha e Irlanda"). Em troca, Napoleão prometia não interferir no caso de uma invasão russa à [Finlândia](https://pt.wikipedia.org/wiki/Finl%C3%A2ndia "Finlândia"), então sob o domínio da [Suécia](https://pt.wikipedia.org/wiki/Su%C3%A9cia "Suécia"). E a Prússia perderia metade de seu território.
+
+Muitos historiadores consideram Tilsit como o auge do Império Napoleônico.[[5]](https://pt.wikipedia.org/wiki/Batalha_de_Friedland#cite_note-5)
+
+## Referências
+
+1. [](https://pt.wikipedia.org/wiki/Batalha_de_Friedland#cite_ref-Chandler_1-0)[](https://pt.wikipedia.org/wiki/Batalha_de_Friedland#cite_ref-Chandler_1-1)Chandler, D. _Dictionary of the Napoleonic wars_. Wordsworth editions, 1999, p. 161.
+2. [](https://pt.wikipedia.org/wiki/Batalha_de_Friedland#cite_ref-c582_2-0)[](https://pt.wikipedia.org/wiki/Batalha_de_Friedland#cite_ref-c582_2-1)Chandler 1995 p. 582.
+3. [](https://pt.wikipedia.org/wiki/Batalha_de_Friedland#cite_ref-3 "Ir para cima")Osprey - Essential Histories 003 -The Napoleonic Wars -The Rise of the Emperor 1805-1807 p 78
+4. [](https://pt.wikipedia.org/wiki/Batalha_de_Friedland#cite_ref-4 "Ir para cima")[Chandler, David G.](https://pt.wikipedia.org/wiki/David_G._Chandler?action=edit&redlink=1 "David G. Chandler (página não existe)") _The Campaigns of Napoleon._ Simon & Schuster, 1995. [ISBN 0-02-523660-1](https://pt.wikipedia.org/wiki/Special:BookSources/0025236601)
+5. [](https://pt.wikipedia.org/wiki/Batalha_de_Friedland#cite_ref-5 "Ir para cima")Chandler 1995 p. 585."
