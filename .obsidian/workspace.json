@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - CONHECIMENTO/02.2 - História do Brasil/2026-09-19-1500 - (CHATGPT) - PADROADO REAL E SUA RELAÇÃO COM O GOVERNO-GERAL (1549).md",
+                "file": "02 - CONHECIMENTO/02.1 - História Mundial/02.1.2 - A Era das Revoluções e a Construção do Mundo Liberal (Séculos XVIII a XIX).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-19-1500 - (CHATGPT) - PADROADO REAL E SUA RELAÇÃO COM O GOVERNO-GERAL (1549)"
+              "title": "02.1.2 - A Era das Revoluções e a Construção do Mundo Liberal (Séculos XVIII a XIX)"
             }
           },
           {
@@ -51,15 +51,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - CONHECIMENTO/02.2 - História do Brasil/026-09-16 - (INTEGRADO) - 1. O PERÍODO COLONIAL - 1.1. A CONFIGURAÇÃO TERRITORIAL DA AMÉRICA PORTUGUESA.md",
+                "file": "01 - DASHBOARDS/01.4 - Atas de Sessão/2026-09-22-0600 - HM - 2.1 A REVOLUÇÃO FRANCESA E AS REVOLUÇÕES BURGUESAS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "026-09-16 - (INTEGRADO) - 1. O PERÍODO COLONIAL - 1.1. A CONFIGURAÇÃO TERRITORIAL DA AMÉRICA PORTUGUESA"
+              "title": "2026-09-22-0600 - HM - 2.1 A REVOLUÇÃO FRANCESA E AS REVOLUÇÕES BURGUESAS"
+            }
+          },
+          {
+            "id": "59c081b78dfc9933",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - CONHECIMENTO/02.1 - História Mundial/2026-09-22-0601 - (WIKI) - BATALHA DE LEIPZIG (1813).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-22-0601 - (WIKI) - BATALHA DE LEIPZIG (1813)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,10 +240,14 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "968d512274d8a7e2",
+  "active": "0613b2538cc58bc6",
   "lastOpenFiles": [
-    "02 - CONHECIMENTO/02.2 - História do Brasil/026-09-16 - (INTEGRADO) - 1. O PERÍODO COLONIAL - 1.1. A CONFIGURAÇÃO TERRITORIAL DA AMÉRICA PORTUGUESA.md",
     "05 - EDITAL/05.2 - Edital - História do Brasil.md",
-    "02 - CONHECIMENTO/02.2 - História do Brasil/2026-09-19-1500 - (CHATGPT) - PADROADO REAL E SUA RELAÇÃO COM O GOVERNO-GERAL (1549).md"
+    "02 - CONHECIMENTO/02.1 - História Mundial/2026-09-22-0601 - (WIKI) - BATALHA DE LEIPZIG (1813).md",
+    "02 - CONHECIMENTO/02.1 - História Mundial/02.1.2 - A Era das Revoluções e a Construção do Mundo Liberal (Séculos XVIII a XIX).md",
+    "01 - DASHBOARDS/01.4 - Atas de Sessão/2026-09-22-0600 - HM - 2.1 A REVOLUÇÃO FRANCESA E AS REVOLUÇÕES BURGUESAS.md",
+    "02 - CONHECIMENTO/02.2 - História do Brasil/2026-09-19-1500 - (CHATGPT) - PADROADO REAL E SUA RELAÇÃO COM O GOVERNO-GERAL (1549).md",
+    "01 - DASHBOARDS/01.4 - Atas de Sessão/2026-09-17-2250 - HM - 2.1 A REVOLUÇÃO FRANCESA E AS REVOLUÇÕES BURGUESAS.md",
+    "02 - CONHECIMENTO/02.2 - História do Brasil/026-09-16 - (INTEGRADO) - 1. O PERÍODO COLONIAL - 1.1. A CONFIGURAÇÃO TERRITORIAL DA AMÉRICA PORTUGUESA.md"
   ]
 }
