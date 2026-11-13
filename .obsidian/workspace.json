@@ -11,66 +11,38 @@
             "id": "968d512274d8a7e2",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.3 - PORTUGUÊS/3-202610041534 - CUNHA-GRAMÁTICA DO PORTUGUÊS CONTEMPORÂNEO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3-202610041534 - CUNHA-GRAMÁTICA DO PORTUGUÊS CONTEMPORÂNEO"
+            }
+          },
+          {
+            "id": "7022bad0aa8df76b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.3 - PORTUGUÊS/3-202610041543 - CUNHA-GRAMÁTICA DO PORTUGUÊS CONTEMPORÂNEO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3-202610041543 - CUNHA-GRAMÁTICA DO PORTUGUÊS CONTEMPORÂNEO"
+            }
+          },
+          {
+            "id": "a6f5328e8ed9fa1b",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
-            }
-          },
-          {
-            "id": "93e5a6831183dca2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - EDITAL/05.2 - Edital - História do Brasil.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05.2 - Edital - História do Brasil"
-            }
-          },
-          {
-            "id": "0613b2538cc58bc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - CONHECIMENTO/02.1 - História Mundial/02.1.2 - A Era das Revoluções e a Construção do Mundo Liberal (Séculos XVIII a XIX).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02.1.2 - A Era das Revoluções e a Construção do Mundo Liberal (Séculos XVIII a XIX)"
-            }
-          },
-          {
-            "id": "946873c38a3649cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - DASHBOARDS/01.4 - Atas de Sessão/2026-09-22-0600 - HM - 2.1 A REVOLUÇÃO FRANCESA E AS REVOLUÇÕES BURGUESAS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-09-22-0600 - HM - 2.1 A REVOLUÇÃO FRANCESA E AS REVOLUÇÕES BURGUESAS"
-            }
-          },
-          {
-            "id": "59c081b78dfc9933",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - CONHECIMENTO/02.1 - História Mundial/2026-09-22-0601 - (WIKI) - BATALHA DE LEIPZIG (1813).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-09-22-0601 - (WIKI) - BATALHA DE LEIPZIG (1813)"
             }
           }
         ],
@@ -108,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#status/nao-iniciado",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -235,17 +207,38 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "markdown-importer:Abrir importador Markdown": false,
       "zk-prefixer:Criar nova nota única": false,
       "bases:Criar nova base": false
     }
   },
-  "active": "0613b2538cc58bc6",
+  "active": "a6f5328e8ed9fa1b",
   "lastOpenFiles": [
-    "05 - EDITAL/05.2 - Edital - História do Brasil.md",
+    "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.3 - PORTUGUÊS/3-202610041543 - CUNHA-GRAMÁTICA DO PORTUGUÊS CONTEMPORÂNEO.md",
+    "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.3 - PORTUGUÊS/3-202610041534 - CUNHA-GRAMÁTICA DO PORTUGUÊS CONTEMPORÂNEO.md",
+    "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.3 - PORTUGUÊS/3-202610041505 - CUNHA-GRAMÁTICA DO PORTUGUÊS CONTEMPORÂNEO.md",
+    "04 - MATERIAIS DE APOIO/04.1 - Resumos do Notebook LM/02.2.1 - O PROCESSO DE INDEPENDÊNCIA - MOVIMENTOS DE EMANCIPAÇÃO.md",
+    "02 - CONHECIMENTO/02.1 - História Mundial/02.1.1 - Estruturas e Ideias Econômicas — Da Revolução Industrial ao Capitalismo Organizado (Séculos XVIII a XX.md",
+    "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.3 - PORTUGUÊS/3-202610041440 - CUNHA-GRAMÁTICA DO PORTUGUÊS CONTEMPORÂNEO.md",
     "02 - CONHECIMENTO/02.1 - História Mundial/2026-09-22-0601 - (WIKI) - BATALHA DE LEIPZIG (1813).md",
-    "02 - CONHECIMENTO/02.1 - História Mundial/02.1.2 - A Era das Revoluções e a Construção do Mundo Liberal (Séculos XVIII a XIX).md",
     "01 - DASHBOARDS/01.4 - Atas de Sessão/2026-09-22-0600 - HM - 2.1 A REVOLUÇÃO FRANCESA E AS REVOLUÇÕES BURGUESAS.md",
+    "02 - CONHECIMENTO/02.1 - História Mundial/02.1.2 - A Era das Revoluções e a Construção do Mundo Liberal (Séculos XVIII a XIX).md",
+    "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.1 - HISTÓRIA MUNDIAL/1-202609241107 - HOBSBAWM - A era das revoluções - 1789 -1848..md",
+    "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.3 - PORTUGUÊS/3-202610042336 - BECHARA-BECHARA PARA CONCURSOS.md",
+    "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.3 - PORTUGUÊS/3-202610010000 - CUNHA-GRAMÁTICA DO PORTUGUÊS CONTEMPORÂNEO.md",
+    "MODELOS/MODELO NOTA REFERÊNCIA.md",
+    "MODELOS",
+    "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.6 - LITERATURA BRASILEIRA",
+    "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.5 - ESPANHOL",
+    "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.4 - INGLÊS",
+    "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.3 - PORTUGUÊS",
+    "Sem título.base",
+    "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.2 - HISTÓRIA DO BRASIL",
+    "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.1 - HISTÓRIA MUNDIAL",
+    "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/Sem título.md",
+    "06 - NOTAS ZETTELKASTEN/06.1 - NOTAS INDÍCES",
+    "05 - EDITAL/05.2 - Edital - História do Brasil.md",
+    "06 - NOTAS ZETTELKASTEN/Sem título.md",
+    "06 - NOTAS ZETTELKASTEN/06.3 - NOTAS PERMANENTES",
     "02 - CONHECIMENTO/02.2 - História do Brasil/2026-09-19-1500 - (CHATGPT) - PADROADO REAL E SUA RELAÇÃO COM O GOVERNO-GERAL (1549).md",
     "01 - DASHBOARDS/01.4 - Atas de Sessão/2026-09-17-2250 - HM - 2.1 A REVOLUÇÃO FRANCESA E AS REVOLUÇÕES BURGUESAS.md",
     "02 - CONHECIMENTO/02.2 - História do Brasil/026-09-16 - (INTEGRADO) - 1. O PERÍODO COLONIAL - 1.1. A CONFIGURAÇÃO TERRITORIAL DA AMÉRICA PORTUGUESA.md"
