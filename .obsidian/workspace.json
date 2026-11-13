@@ -13,30 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.3 - PORTUGUÊS/3-202610041534 - CUNHA-GRAMÁTICA DO PORTUGUÊS CONTEMPORÂNEO.md",
+                "file": "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.3 - PORTUGUÊS/3-202611041200 - CUNHA; CINTRA. NGPC..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-202610041534 - CUNHA-GRAMÁTICA DO PORTUGUÊS CONTEMPORÂNEO"
-            }
-          },
-          {
-            "id": "7022bad0aa8df76b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.3 - PORTUGUÊS/3-202610041543 - CUNHA-GRAMÁTICA DO PORTUGUÊS CONTEMPORÂNEO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3-202610041543 - CUNHA-GRAMÁTICA DO PORTUGUÊS CONTEMPORÂNEO"
+              "title": "3-202611041200 - CUNHA; CINTRA. NGPC."
             }
           },
           {
             "id": "a6f5328e8ed9fa1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.3 - PORTUGUÊS/3-202611041212 - CUNHA; CINTRA. NGPC..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3-202611041212 - CUNHA; CINTRA. NGPC."
+            }
+          },
+          {
+            "id": "e375708add829e38",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -211,10 +211,14 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "a6f5328e8ed9fa1b",
+  "active": "e375708add829e38",
   "lastOpenFiles": [
-    "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.3 - PORTUGUÊS/3-202610041543 - CUNHA-GRAMÁTICA DO PORTUGUÊS CONTEMPORÂNEO.md",
+    "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.3 - PORTUGUÊS/3-202611041212 - CUNHA; CINTRA. NGPC..md",
+    "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.3 - PORTUGUÊS/3-202611041200 - CUNHA; CINTRA. NGPC..md",
     "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.3 - PORTUGUÊS/3-202610041534 - CUNHA-GRAMÁTICA DO PORTUGUÊS CONTEMPORÂNEO.md",
+    "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.3 - PORTUGUÊS/3-202611041152 - CUNHA; CINTRA - NGPC..md",
+    "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.3 - PORTUGUÊS/3-202611041125 - CUNHA; CINTRA - NGPC..md",
+    "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.3 - PORTUGUÊS/3-202610041543 - CUNHA-GRAMÁTICA DO PORTUGUÊS CONTEMPORÂNEO.md",
     "06 - NOTAS ZETTELKASTEN/06.2 - NOTAS DE REFERÊNCIA/06.2.3 - PORTUGUÊS/3-202610041505 - CUNHA-GRAMÁTICA DO PORTUGUÊS CONTEMPORÂNEO.md",
     "04 - MATERIAIS DE APOIO/04.1 - Resumos do Notebook LM/02.2.1 - O PROCESSO DE INDEPENDÊNCIA - MOVIMENTOS DE EMANCIPAÇÃO.md",
     "02 - CONHECIMENTO/02.1 - História Mundial/02.1.1 - Estruturas e Ideias Econômicas — Da Revolução Industrial ao Capitalismo Organizado (Séculos XVIII a XX.md",
